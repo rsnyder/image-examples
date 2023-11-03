@@ -29,7 +29,7 @@ In this example an image hosted in a Github repository is used to create an IIIF
     attribution="Ron Snyder">
 
 In this example an image hosted in a Github repository is used to create an IIIF version of the image used in image viewer.
-<param ve-image manifest="https://iiif.juncture-digital.org/gh:rsnyder/image-examples/images/Amalfi.jpg">
+<param ve-image manifest="https://iiif.juncture-digital.org/gh:rsnyder/image-examples/images/Amalfi.jpg/manifest.json">
 
 In this example an image hosted in a Github repository is used to create an IIIF version of the image used in image viewer.
-<param ve-image manifest="https://iiif.juncture-digital.org/gh:rsnyder/image-examples/images/Amalfi__2.jpg">
+<param ve-image manifest="https://iiif.juncture-digital.org/gh:rsnyder/image-examples/images/Amalfi__2.jpg/manifest.json">
