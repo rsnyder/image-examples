@@ -27,3 +27,9 @@ In this example an image hosted in a Github repository is used to create an IIIF
     description="Amalfi, a town on the Amalfi Coast in Italy "
     license="CC BY-SA"
     attribution="Ron Snyder">
+
+In this example an image hosted in a Github repository is used to create an IIIF version of the image used in image viewer.
+<param ve-image manifest="https://iiif.juncture-digital.org/gh:rsnyder/image-examples/images/Amalfi.jpg">
+
+In this example an image hosted in a Github repository is used to create an IIIF version of the image used in image viewer.
+<param ve-image manifest="https://iiif.juncture-digital.org/gh:rsnyder/image-examples/images/Amalfi__2.jpg">
